@@ -2,7 +2,8 @@
 OpenVINO installer storage location
 
 ## 1. For Linux
-- **[R5](Linux/download_R5.sh)**
+- **[R5.0.1](Linux/download_R5.0.1.sh)**
+- **[R5](Linux/download_R5.0.0.sh)**
 - **[R4](Linux/download_R4.sh)**
 - **[R3](Linux/download_R3.sh)**
 - **[R2.0.2](Linux/download_R2.0.2.sh)**
@@ -21,7 +22,7 @@ $ cd OpenVINO-bin
 ```
 ### (1) Linux
 ```bash
-$ Linux/download_R5.sh
+$ Linux/download_R5.0.1.sh
 ```
 
 ### (2) RaspberryPi
