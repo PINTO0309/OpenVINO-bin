@@ -2,17 +2,17 @@
 OpenVINO installer storage location
 
 ## 1. For Linux
-- **[R5.0.1](Linux/download_R5.0.1.sh)**
-- **[R5](Linux/download_R5.0.0.sh)**
-- **[R4](Linux/download_R4.sh)**
-- **[R3](Linux/download_R3.sh)**
-- **[R2.0.2](Linux/download_R2.0.2.sh)**
-- **[R2](Linux/download_R2.sh)**
-- **[R1.2](Linux/download_R1.2.sh)**
-- **[R1.1](Linux/download_R1.1.sh)**
+- **[2018 R5.0.1](Linux/download_R5.0.1.sh)**
+- **[2018 R5](Linux/download_R5.0.0.sh)**
+- **[2018 R4](Linux/download_R4.sh)**
+- **[2018 R3](Linux/download_R3.sh)**
+- **[2018 R2.0.2](Linux/download_R2.0.2.sh)**
+- **[2018 R2](Linux/download_R2.sh)**
+- **[2018 R1.2](Linux/download_R1.2.sh)**
+- **[2018 R1.1](Linux/download_R1.1.sh)**
 
 ## 2. For RaspberryPi
-- **[R5](RaspberryPi/download_R5.sh)**
+- **[2018 R5](RaspberryPi/download_R5.sh)**
 
 ## 3. Usage
 ```bash
