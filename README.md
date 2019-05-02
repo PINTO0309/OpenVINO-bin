@@ -31,5 +31,7 @@ $ Linux/download_2019R1.0.1.sh
 
 ### (2) RaspberryPi
 ```bash
-$ RaspberryPi/download_2019R1.0.1.sh
+$ cd ~
+$ /home/pi/OpenVINO-bin/RaspberryPi/download_2019R1.0.1.sh
+$ sudo sed -i "s|<INSTALLDIR>|/home/pi/inference_engine_vpu_arm|" /home/pi/inference_engine_vpu_arm/bin/setupvars.sh
 ```
