@@ -2,6 +2,7 @@
 OpenVINO installer storage location
 
 ## 1. For Linux
+- **[2019 R1.1](Linux/download_2019R1.1.sh)**
 - **[2019 R1.0.1](Linux/download_2019R1.0.1.sh)**
 - **[2019 R1](Linux/download_2019R1.sh)**
 - **[2018 R5.0.1](Linux/download_2018R5.0.1.sh)**
@@ -14,6 +15,7 @@ OpenVINO installer storage location
 - **[2018 R1.1](Linux/download_2018R1.1.sh)**
 
 ## 2. For RaspberryPi
+- **[2019 R1.1](RaspberryPi/download_2019R1.1.sh)**
 - **[2019 R1.0.1](RaspberryPi/download_2019R1.0.1.sh)**
 - **[2019 R1](RaspberryPi/download_2019R1.sh)**
 - **[2018 R5](RaspberryPi/download_2018R5.sh)**
@@ -26,12 +28,12 @@ $ cd OpenVINO-bin
 ```
 ### (1) Linux
 ```bash
-$ Linux/download_2019R1.0.1.sh
+$ Linux/download_2019R1.1.sh
 ```
 
 ### (2) RaspberryPi
 ```bash
 $ cd ~
-$ /home/pi/OpenVINO-bin/RaspberryPi/download_2019R1.0.1.sh
+$ /home/pi/OpenVINO-bin/RaspberryPi/download_2019R1.1.sh
 $ sudo sed -i "s|<INSTALLDIR>|/home/pi/inference_engine_vpu_arm|" /home/pi/inference_engine_vpu_arm/bin/setupvars.sh
 ```
