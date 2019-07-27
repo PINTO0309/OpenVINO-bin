@@ -30,12 +30,11 @@ $ cd OpenVINO-bin
 ```
 ### (1) Linux
 ```bash
-$ Linux/download_2019R1.1.sh
+$ Linux/download_2019R2.sh
 ```
 
 ### (2) RaspberryPi
 ```bash
-$ cd ~
-$ /home/pi/OpenVINO-bin/RaspberryPi/download_2019R1.1.sh
-$ sudo sed -i "s|<INSTALLDIR>|/home/pi/inference_engine_vpu_arm|" /home/pi/inference_engine_vpu_arm/bin/setupvars.sh
+$ RaspberryPi/download_2019R2.sh
+$ echo "source /opt/intel/openvino/bin/setupvars.sh" >> ~/.bashrc
 ```
