@@ -2,6 +2,7 @@
 OpenVINO installer storage location
 
 ## 1. For Linux
+- **[2019 R2](Linux/download_2019R2.sh)**
 - **[2019 R1.1](Linux/download_2019R1.1.sh)**
 - **[2019 R1.0.1](Linux/download_2019R1.0.1.sh)**
 - **[2019 R1](Linux/download_2019R1.sh)**
@@ -15,6 +16,7 @@ OpenVINO installer storage location
 - **[2018 R1.1](Linux/download_2018R1.1.sh)**
 
 ## 2. For RaspberryPi
+- **[2019 R2](RaspberryPi/download_2019R2.sh)**
 - **[2019 R1.1](RaspberryPi/download_2019R1.1.sh)**
 - **[2019 R1.0.1](RaspberryPi/download_2019R1.0.1.sh)**
 - **[2019 R1](RaspberryPi/download_2019R1.sh)**
