@@ -33,11 +33,11 @@ $ cd OpenVINO-bin
 ```
 ### (1) Linux
 ```bash
-$ Linux/download_2019R2.0.1.sh
+$ Linux/download_2019R3.sh
 ```
 
 ### (2) RaspberryPi
 ```bash
-$ RaspberryPi/download_2019R2.sh
+$ RaspberryPi/download_2019R3.sh
 $ echo "source /opt/intel/openvino/bin/setupvars.sh" >> ~/.bashrc
 ```
