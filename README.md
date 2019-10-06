@@ -41,3 +41,6 @@ $ Linux/download_2019R3.sh
 $ RaspberryPi/download_2019R3.sh
 $ echo "source /opt/intel/openvino/bin/setupvars.sh" >> ~/.bashrc
 ```
+## Reference articles
+**https://docs.openvinotoolkit.org/latest/_docs_install_guides_installing_openvino_linux.html**  
+**https://docs.openvinotoolkit.org/latest/_docs_install_guides_installing_openvino_raspbian.html**  
