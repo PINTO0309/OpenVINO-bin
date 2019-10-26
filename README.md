@@ -34,7 +34,7 @@ $ cd OpenVINO-bin
 ```
 ### (1) Linux
 ```bash
-$ Linux/download_2019R3.sh
+$ Linux/download_2019R3.1.sh
 ```
 
 ### (2) RaspberryPi
