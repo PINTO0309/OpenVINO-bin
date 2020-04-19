@@ -2,6 +2,7 @@
 OpenVINO installer storage location
 
 ## 1. For Linux
+- **[2020 2](Linux/download_20202.sh)**
 - **[2020 1](Linux/download_20201.sh)**
 - **[2019 R3.1](Linux/download_2019R3.1.sh)**
 - **[2019 R3](Linux/download_2019R3.sh)**
