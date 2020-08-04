@@ -23,6 +23,7 @@ OpenVINO installer storage location
 - **[2018 R1.1](Linux/download_2018R1.1.sh)**
 
 ## 2. For RaspberryPi
+- **[2020 4](RaspberryPi/download_20204.sh)**
 - **[2020 3](RaspberryPi/download_20203.sh)**
 - **[2020 2](RaspberryPi/download_20202.sh)**
 - **[2020 1](RaspberryPi/download_20201.sh)**
@@ -41,12 +42,12 @@ $ cd OpenVINO-bin
 ```
 ### (1) Linux
 ```bash
-$ Linux/download_20203.sh
+$ Linux/download_20204.sh
 ```
 
 ### (2) RaspberryPi
 ```bash
-$ RaspberryPi/download_20203.sh
+$ RaspberryPi/download_20204.sh
 $ echo "source /opt/intel/openvino/bin/setupvars.sh" >> ~/.bashrc
 ```
 ## 4. Reference articles
