@@ -2,6 +2,8 @@
 OpenVINO installer storage location
 
 ## 1. For Linux
+- **[2021 4](Linux/download_20214.sh)**
+- **[2021 3](Linux/download_20213.sh)**
 - **[2021 2](Linux/download_20212.sh)**
 - **[2021 1](Linux/download_20211.sh)**
 - **[2020 4](Linux/download_20204.sh)**
@@ -46,12 +48,12 @@ $ cd OpenVINO-bin
 ```
 ### (1) Linux
 ```bash
-$ Linux/download_20212.sh
+$ Linux/download_20214.sh
 ```
 
 ### (2) RaspberryPi
 ```bash
-$ RaspberryPi/download_20212.sh
+$ RaspberryPi/download_20214.sh
 $ echo "source /opt/intel/openvino/bin/setupvars.sh" >> ~/.bashrc
 ```
 ## 4. Reference articles
