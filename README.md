@@ -27,6 +27,8 @@ OpenVINO installer storage location
 - **[2018 R1.1](Linux/download_2018R1.1.sh)**
 
 ## 2. For RaspberryPi
+- **[2021 4](RaspberryPi/download_20214.sh)**
+- **[2021 5](RaspberryPi/download_20213.sh)**
 - **[2021 2](RaspberryPi/download_20212.sh)**
 - **[2021 1](RaspberryPi/download_20211.sh)**
 - **[2020 4](RaspberryPi/download_20204.sh)**
